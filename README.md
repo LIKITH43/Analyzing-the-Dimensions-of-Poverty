@@ -30,3 +30,8 @@ Alkire, S. Jindra, C. Robles, G. and Vaz, A. (2017). ‘Multidimensional Poverty
 Inspiration
 Which countries exhibit the largest subnational disparities in MPI?
 Which countries have high per-capita incomes yet still rank highly in MPI?
+
+
+Screenshots :
+![image](https://github.com/user-attachments/assets/98475aca-d36c-4a48-bcce-cfe1e7575097)
+
